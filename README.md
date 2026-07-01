@@ -26,6 +26,10 @@ Implemented the Unity visualisation, trajectory rendering, potential well visual
 
 Repository: https://github.com/Quick-Mafs/Magnetic-Pendulum-Accelerator
 
+### RISC-V CPU Project
+
+Repository: https://github.com/aileen-byte/Team14
+
 
 
 
