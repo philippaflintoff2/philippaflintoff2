@@ -23,7 +23,7 @@ Add a sentence on the interesting bit (the hardware/algorithm/result) and a `lin
 
 ---
 
-<sub>📫 Reach me on [<a href="#">LinkedIn</a> ](https://www.linkedin.com/in/philippa-flintoff-b557a0262/)
+<sub>📫 Reach me on https://www.linkedin.com/in/philippa-flintoff-b557a0262/
 
 
 
