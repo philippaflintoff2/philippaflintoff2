@@ -12,10 +12,9 @@ FPGA / RTL · PYNQ / Zynq · embedded Linux
 
 ## Personal Projects
 
-**Project Name** — one-line description of what it does.
-Add a sentence on the interesting bit (the hardware/algorithm/result) and a `link` to the repo.
+### Pillora - Medication Tracking App
 
-
+Repository: https://github.com/zenbean/pillora
 
 ## University Projects
 
