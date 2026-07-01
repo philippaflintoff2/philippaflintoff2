@@ -3,7 +3,6 @@
 **Electronic & Information Engineering @ Imperial College London**
 
 Second year EIE student with a focus on digital hardware and FPGA based acceleration.
----
 
 ## Personal Summary 
 
