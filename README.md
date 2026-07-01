@@ -6,8 +6,9 @@ Second year EIE student with a focus on digital hardware and FPGA based accelera
 
 ## Personal Summary 
 
-FPGA / RTL · PYNQ / Zynq · embedded Linux
+FPGA / RTL · PYNQ / Zynq 
 
+- Electronics and Networks Internship @ PA Consulting 
 
 
 ## Personal Projects
