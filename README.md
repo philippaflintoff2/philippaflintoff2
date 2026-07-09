@@ -41,8 +41,8 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/philippa-flintoff-b557a0262/)
 
 | Project | Summary | Tech | Repository |
 |---------|---------|------|------------|
-| **C → RISC-V Compiler** | Compiler translating a subset of C to RISC-V assembly — lexing, parsing, and code generation. _[add: implementation language & supported features]_ |C++, RISC-V | [LangProc/LabRats](https://github.com/LangProc/langproc-2025-cw-LabRats) |
-| **Pillora** | Medication-tracking application. _[add: stack & one feature highlight]_ | Swift, Xcode | [zenbean/pillora](https://github.com/zenbean/pillora) |
+| **C → RISC-V Compiler** | Compiler translating a subset of C to RISC-V assembly — lexing, parsing, and code generation.  |C++, RISC-V | [LangProc/LabRats](https://github.com/LangProc/langproc-2025-cw-LabRats) |
+| **Pillora** | Medication identification application, used to identify pills for elderly patients.| Swift, Xcode | [zenbean/pillora](https://github.com/zenbean/pillora) |
 
 ---
 
