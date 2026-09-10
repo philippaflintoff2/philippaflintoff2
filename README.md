@@ -2,10 +2,6 @@
 
 **Electronic & Information Engineering @ Imperial College London**
 
-Digital hardware & FPGA design · Low-latency C++ · Performance critical software
-
-Second year EIE student building FPGA accelerators and high performance software. Interested in RTL / FPGA design and low latency software. 
-
 Reach me on [LinkedIn](https://www.linkedin.com/in/philippa-flintoff-b557a0262/)
 ---
 
